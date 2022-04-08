@@ -1,0 +1,1 @@
+{"auth_user":{"id":"53","0":"53","password":"e10adc3949ba59abbe56e057f20f883e","user_name":"huyenvk","email":"huyenvk@gmail.com","date_of_birth":"2000-12-27","avatar":"public\/avatar\/huyenvk-1647258606.jpg","first_name":"huyen","middle_name":"khanh","last_name":"vu","created_at":"2022-01-20 05:07:06","updated_at":"2022-03-14 11:50:06","deleted_at":null}}
